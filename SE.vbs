@@ -1,0 +1,1 @@
+MsgBox"SyntaxError",16,"AMPro_BOT"
