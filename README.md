@@ -6,4 +6,5 @@ Hello, This is the Status bot for AMProductions and It allows you to send messag
 <img width="589" height="407" alt="image" src="https://github.com/user-attachments/assets/e002e70a-8026-4887-b5e2-b8e22b1f196b" />
 
 # Tutorials:
-<img width="589" height="407" alt="image" src="[https://github.com/user-attachments/assets/e002e70a-8026-4887-b5e2-b8e22b1f196b](https://www.youtube.com/embed/b8Y3rZllBIA?si=3YvAMYs7PfjvEsD8)" />
+[![Tutorial](https://github.com/user-attachments/assets/879fc531-65fa-4db1-9757-48f55681fe80)](https://www.youtube.com/watch?v=b8Y3rZllBIA&t=1s)
+
